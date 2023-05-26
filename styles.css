@@ -312,15 +312,10 @@ ul {
     text-align: center;
 }
 
-.subtext.features__subtext {
-    font-size: 18px;
-    font-weight: 500;
+.features__subtext {
     margin-top: 16px;
-    width: 100%;
     max-width: 576px;
     text-align: center;
-    line-height: 1.5;
-    color: rgb(124 139 161);
 }
 
 .all-features {
@@ -395,7 +390,6 @@ ul {
 
 .container__img {
     width: 100%;
-    
 }
 
 .container__img.quality-work {
